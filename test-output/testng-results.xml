@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="130390" started-at="2022-10-01T11:54:11Z" finished-at="2022-10-01T11:56:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="130390" started-at="2022-10-01T11:54:11Z" finished-at="2022-10-01T11:56:22Z">
+      <class name="com.test.TestClass">
+        <test-method status="PASS" signature="browserOpen()[pri:0, instance:com.test.TestClass@5c1a8622]" name="browserOpen" is-config="true" duration-ms="27744" started-at="2022-10-01T11:54:11Z" finished-at="2022-10-01T11:54:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.test.TestClass@5c1a8622]" name="test01" duration-ms="2190" started-at="2022-10-01T11:54:40Z" finished-at="2022-10-01T11:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="phone()[pri:1, instance:com.test.TestClass@5c1a8622]" name="phone" duration-ms="30630" started-at="2022-10-01T11:54:42Z" finished-at="2022-10-01T11:55:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phone -->
+        <test-method status="PASS" signature="laptop()[pri:2, instance:com.test.TestClass@5c1a8622]" name="laptop" duration-ms="54834" started-at="2022-10-01T11:55:13Z" finished-at="2022-10-01T11:56:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laptop -->
+        <test-method status="PASS" signature="cartPage()[pri:3, instance:com.test.TestClass@5c1a8622]" name="cartPage" duration-ms="14141" started-at="2022-10-01T11:56:08Z" finished-at="2022-10-01T11:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartPage -->
+      </class> <!-- com.test.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
